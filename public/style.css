@@ -1,0 +1,34 @@
+.oblast{
+    width: 1000px;
+    margin:auto;
+}
+.prodin{
+    width: 100%;
+    height: 120px;
+    background: green;
+}
+
+.prdva{
+    width: 100%;
+    height: 120px;
+    background: red;
+}
+.prtri{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.odin{
+    width: 400px;
+    height: 100%;
+    background: yellow;
+}
+
+.dva{
+    width: 100px;
+    height: 100%;
+    background: blue;
+}
